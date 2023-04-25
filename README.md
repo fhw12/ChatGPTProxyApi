@@ -2,6 +2,8 @@
 
 ![screenshot](screen.png)
 
+Взаимодействуйте с [ChatGPTProxy](https://chatgptproxy.me/) через Python3
+
  ```
 import time
 import ChatGPTProxyApi
